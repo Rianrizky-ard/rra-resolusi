@@ -4,3 +4,5 @@ RRA resolusi
 - update linkedin 
 - membuat platform presilan
 - collect more certificate
+- watch simon hoiberg vids
+- create fake clients for porto
