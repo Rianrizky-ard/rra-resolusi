@@ -1,0 +1,8 @@
+RENCANA KONTEN RRA
+
+- Javascript
+  * ES 6
+  * Framework Javascript
+- PHP frameworks
+- Interview
+- Vlogs
