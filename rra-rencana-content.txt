@@ -1,0 +1,6 @@
+RENCANA KONTEN RRA
+
+- Javascript
+- PHP frameworks
+- Interview
+- Vlogs
