@@ -4,6 +4,7 @@ RENCANA KONTEN RRA
   * ES 6
   * Framework Javascript
     ∧ Vue
+    ∧ React
 - Struktur Data dasar
 - PHP frameworks
     ∧ Laravel
