@@ -3,7 +3,10 @@ RENCANA KONTEN RRA
 - Javascript
   * ES 6
   * Framework Javascript
+    ∧ Vue
 - Struktur Data dasar
 - PHP frameworks
+    ∧ Laravel
 - Interview
 - Vlogs
+- Python
